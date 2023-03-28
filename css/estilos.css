@@ -131,7 +131,6 @@ body{
     background-color:rgb(29,28,26);
     width: 95%;
     margin:3rem auto;
-   
 }
 
 .modalidadYrequisitos h2{
@@ -146,7 +145,6 @@ body{
 .containerModalidadYrequisitos{
     width: 95%;
     margin:0 auto;
-    height:100vh;
     display:flex;
     justify-content: space-around;
 }
